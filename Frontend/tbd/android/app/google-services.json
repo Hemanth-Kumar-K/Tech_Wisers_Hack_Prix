@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703484358421",
+    "project_id": "tbdetection-8feee",
+    "storage_bucket": "tbdetection-8feee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703484358421:android:bfa7d5c5a04556b966c31c",
+        "android_client_info": {
+          "package_name": "com.example.tbd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0-aYkOdQw7bQwou4rL1-g7Kd4YyOvOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
