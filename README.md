@@ -1,4 +1,4 @@
-# Tuberculosis Detection
+<center><h1>Tuberculosis Detection</h1></center>
 
 
 ## Table of Contents
@@ -111,4 +111,4 @@ To run the entire application:
 
 ## Demo Video
 
-A demo video showcasing the functionality of the application can be found in the `demo_video` folder. Watch the demo [here](demo_video/app_demo.mp4).
+A demo video showcasing the functionality of the application can be found in the `App demo.mp4`.
